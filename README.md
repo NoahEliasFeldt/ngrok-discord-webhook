@@ -6,7 +6,7 @@ To have ngrok as a systemd process you could use this script: https://github.com
 
 ## Install Guide:
 1. Clone this repository or download it to your server:
-`    git clone https://github.com/NoahEliasFeldt/ngrok-discord-webhook.git`
+`git clone https://github.com/NoahEliasFeldt/ngrok-discord-webhook.git && cd ngrok-discord-webhook`
 
 2. Add your webhook link from Discord in the sendHook.sh file in the variable WEBHOOK=""
 
